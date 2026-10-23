@@ -1,9 +1,3 @@
 ﻿1. JavaScript adalah bahasa pemrograman yang digunakan untuk membuat halaman web menjadi lebih interaktif dan dinamis. JavaScript dapat digunakan untuk memproses input pengguna, menampilkan pesan, mengubah isi halaman, dan menangani interaksi seperti klik tombol.
 2. jQuery adalah library JavaScript yang mempermudah penulisan kode untuk mengatur elemen HTML, mengubah CSS, menangani event, dan membuat animasi. Dengan jQuery, beberapa fungsi yang membutuhkan kode JavaScript lebih panjang dapat ditulis dengan lebih sederhana.
-3. Aspek	|| JavaScript || jQuery
-Pengertian || Bahasa pemrograman || Library dari JavaScript
-Penulisan kode || Bisa lebih panjang untuk operasi tertentu || Sering lebih ringkas
-Mengakses elemen || document.getElementById() || $("#id")
-Mengubah CSS	|| element.style.color ||	$(element).css()
-Menangani klik || addEventListener() ||	.click()
-Penggunaan ||	Tidak membutuhkan library tambahan untuk fitur dasar || Perlu memuat library jQuery
+Perbedaan JavaScript dan jQuery adalah JavaScript merupakan bahasa pemrograman yang digunakan untuk membuat halaman web menjadi interaktif, sedangkan jQuery merupakan library JavaScript yang mempermudah penulisan kode untuk mengatur elemen HTML, CSS, dan event pada halaman web. Perbedaannya juga terletak pada cara penulisan kode. JavaScript menggunakan sintaks bawaan, seperti document.getElementById() dan addEventListener(), sedangkan jQuery menggunakan sintaks yang lebih sederhana, seperti $("#id") dan .click(). Jadi, JavaScript adalah bahasa pemrogramannya, sedangkan jQuery adalah library yang membantu mempermudah penggunaan JavaScript.
